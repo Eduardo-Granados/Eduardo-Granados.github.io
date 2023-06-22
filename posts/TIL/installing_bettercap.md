@@ -5,7 +5,7 @@
 # Installing Bettercap on Kali Linux
 
 
-- I was having some minor issues trying to get Bettercap installed by following the guide.
+I was having some minor issues trying to get Bettercap installed by following the guide.
 
 - In order to compile bettercap from sources, make sure that you install the dependencies:
 
