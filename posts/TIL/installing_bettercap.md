@@ -9,10 +9,10 @@
 
 - In order to compile bettercap from sources, make sure that you install the dependencies:
 
-    build-essential
-    libpcap-dev
-    libusb-1.0-0-dev (required by the HID module)
-    libnetfilter-queue-dev (on Linux only, required by the packet.proxy module)
+    1. build-essential
+    2. libpcap-dev
+    3. libusb-1.0-0-dev (required by the HID module)
+    4. libnetfilter-queue-dev (on Linux only, required by the packet.proxy module)
 
 - Once you’ve met this conditions, you can run the following commands to compile and install bettercap in /usr/local/bin/bettercap:
 
