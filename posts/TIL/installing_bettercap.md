@@ -19,6 +19,7 @@ Next, with the installation
 
 
 `sudo apt update`
+
 `sudo apt install build-essential libpcap-dev libusb-1.0-0-dev libnetfilter-queue-dev`
 
 after installing the dependencies, traverse to the "etc/" directory to clone Bettercap
@@ -28,4 +29,5 @@ after installing the dependencies, traverse to the "etc/" directory to clone Bet
 lastly
 
 `sudo make build`
+
 `sudo make install`
