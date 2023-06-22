@@ -18,14 +18,14 @@ Once you’ve met this conditions, you can run the following commands to compile
 Next, with the installation 
 
 
-```sudo apt update```
-```sudo apt install build-essential libpcap-dev libusb-1.0-0-dev libnetfilter-queue-dev```
+`sudo apt update`
+`sudo apt install build-essential libpcap-dev libusb-1.0-0-dev libnetfilter-queue-dev`
 
 after installing the dependencies, traverse to the "etc/" directory to clone Bettercap
 
-```git clone github.com/bettercap/bettercap```
+`git clone github.com/bettercap/bettercap`
 
 lastly
 
-```sudo make build```
-```sudo make install```
+`sudo make build`
+`sudo make install`
