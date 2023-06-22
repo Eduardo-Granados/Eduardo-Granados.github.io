@@ -1,3 +1,5 @@
+# Basic machine information
+
 ###### [Home](https://eduardo-granados.github.io/)
  
 ---

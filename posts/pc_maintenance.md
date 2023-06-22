@@ -1,3 +1,5 @@
+# How to update Linux machine
+
 ###### [Home](https://eduardo-granados.github.io/)
 
 ---
