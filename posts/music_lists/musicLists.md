@@ -1,4 +1,6 @@
-#### My Music Interests
+# Music
+
+###### [Home](https://eduardo-granados.github.io/)
 
 ---
 
@@ -14,8 +16,3 @@
 
 *House:*
 [Top 100 House](top100_House-2022-12-11.txt)
-
-
----
-
-###### [Home](https://eduardo-granados.github.io/)
