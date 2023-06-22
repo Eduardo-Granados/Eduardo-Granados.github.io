@@ -6,4 +6,4 @@ You can reach me at:
 
 ---
 
-###### [Home](index.md)
+###### [Home](https://eduardo-granados.github.io/)
