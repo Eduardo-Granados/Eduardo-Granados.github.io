@@ -1,6 +1,6 @@
 ## Welcome\!
 
-I am a graduate from Kean University with a Bachelor of Science in Computer Science. I have also acquired my CompTIA Security+ Certificate. I am interested in learning about Cyber Security, and will be documenting everything here.
+Bookmark this to keep stay updated on my thoughts! :)
 
 ### **Posts**
 
