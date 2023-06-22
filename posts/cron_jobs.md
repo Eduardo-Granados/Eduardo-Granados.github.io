@@ -1,6 +1,7 @@
-###### [Home](https://eddiegranados.github.io/Eduardo_Granados/)        
+###### [Home](https://eduardo-granados.github.io/)
 
 ---
+
 ##### How to maintain Linux machine automatically
 <br>
 

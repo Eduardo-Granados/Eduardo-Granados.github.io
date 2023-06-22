@@ -1,4 +1,4 @@
-###### [Home](https://eddiegranados.github.io/Eduardo_Granados/)        
+###### [Home](https://eduardo-granados.github.io/)
 
 ---
 
