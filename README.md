@@ -1,1 +1,1 @@
-# eduardo-granados.github.io
+# Ed's Tech Tips
