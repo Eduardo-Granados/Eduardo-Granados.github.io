@@ -4,7 +4,7 @@
 
 ---
 
-# Installing Bettercap on Kali Linux
+## Installing Bettercap on Kali Linux
 
 
 I was having some minor issues trying to get Bettercap installed by following the guide.
