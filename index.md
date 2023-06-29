@@ -18,7 +18,12 @@ Bookmark this to keep stay updated on my thoughts! :)
 ### **TIL**
 
 - 2023/6/21 - [Installing Bettercap](/posts/TIL/installing_bettercap.md)
-- 2022/11/08 - [Working with Burp Suite](/posts/TIL/working_with_burp_suite.md) 
+- 2022/11/08 - [Working with Burp Suite](/posts/TIL/working_with_burp_suite.md)
+
+
+### **TryHackMe Notes**
+
+- 2023/6/28 - [Pickle Rick CTF notes](/posts/THM/pickle_rick.md)
 
 
 ---
