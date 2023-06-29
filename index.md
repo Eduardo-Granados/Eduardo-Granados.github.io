@@ -21,6 +21,9 @@ Bookmark this to keep stay updated on my thoughts! :)
 - 2022/11/08 - [Working with Burp Suite](/posts/TIL/working_with_burp_suite.md)
 
 
+---
+
+
 ### **TryHackMe Notes**
 
 - 2023/6/28 - [Pickle Rick CTF notes](/posts/THM/pickle_rick.md)
