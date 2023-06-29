@@ -1,6 +1,6 @@
 ## Welcome\!
 
-Bookmark this to keep stay updated on my thoughts! :)
+Bookmark this to stay updated on my thoughts! :)
 
 ### **Posts**
 
