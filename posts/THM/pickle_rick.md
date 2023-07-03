@@ -1,6 +1,12 @@
+# Pickle Rick CTF notes
+
+###### [Home](https://eduardo-granados.github.io/)
+
+---
+
 # Playbook
 
-(Could use hydra)
+(Could use hydra, but would be too easy)
 
 1. nmap scan IP address
     - nmap -sC -sV -oN IP
