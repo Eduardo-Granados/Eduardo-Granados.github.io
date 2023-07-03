@@ -165,9 +165,12 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
 
 ```
 1. What is the first ingredient that Rick needs?
+- 1st ingredeient: mr. meeseek hair
 
 2. What is the second ingredient in Rick’s potion?
+- 2nd ingredeient: 1 jerry tear
 
 3. What is the last and final ingredient?
+- 3rd ingredients: fleeb juice
 
 ```

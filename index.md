@@ -26,7 +26,7 @@ Bookmark this to stay updated on my thoughts! :)
 
 ### **TryHackMe Notes**
 
-- 2023/6/28 - [Pickle Rick CTF notes](/posts/THM/pickle_rick.md)
+- 2023/6/28 - [Pickle Rick notes](/posts/THM/pickle_rick.md)
 
 
 ---
