@@ -9,6 +9,8 @@
 ```
 (Could use hydra, but would be too easy)
 
+export IP=10.10.200.202 (IP will change)
+
 1. nmap scan IP address
     - nmap -sC -sV -oN IP
     - 
@@ -60,12 +62,6 @@ CRTL + z
 stty raw -echo;fg
 ENTER
 export TERM=xterm
-
-```
-
-
-```
-export IP=10.10.200.202
 
 ```
 
