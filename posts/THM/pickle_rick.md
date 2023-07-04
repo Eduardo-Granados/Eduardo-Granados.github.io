@@ -67,7 +67,7 @@ export TERM=xterm
 
 ```
 
-# some_clues
+# copy_pasta
 
 ```
 Username: R1ckRul3s
