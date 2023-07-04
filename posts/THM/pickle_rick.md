@@ -1,4 +1,4 @@
-# Pickle_Rick_CTF_notes
+# Pickle Rick CTF notes
 
 ###### [Home](https://eduardo-granados.github.io/)
 
