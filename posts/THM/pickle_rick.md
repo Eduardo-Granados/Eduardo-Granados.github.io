@@ -1,4 +1,4 @@
-# Pickle Rick CTF notes
+# Pickle_Rick_CTF_notes
 
 ###### [Home](https://eduardo-granados.github.io/)
 
@@ -56,7 +56,7 @@ export IP=10.10.200.202 (IP will change), but will be useful to not have rewrite
 
 ```
 
-# stabalizing shell
+# stabalizing_shell
 
 ```
 nc -lnvp 9999
@@ -96,7 +96,7 @@ Vm1wR1UxTnRWa2RUV0d4VFlrZFNjRlV3V2t0alJsWnlWbXQwVkUxV1duaFZNakExVkcxS1NHVkliRmho
 
 ```
 
-# nmap results
+# nmap_results
 
 ```
 # Nmap 7.60 scan initiated Tue Jul  4 01:02:41 2023 as: nmap -v2 -sC -sV -oN nmap_scan.log 10.10.157.152
@@ -128,7 +128,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 
 ```
 
-# nikto results
+# nikto_results
 
 ```
 - Nikto v2.1.5
@@ -153,7 +153,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 
 ```
 
-# gobuster results
+# gobuster_results
 
 ```
 ===============================================================
