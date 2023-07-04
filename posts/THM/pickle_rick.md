@@ -56,46 +56,6 @@ export IP=10.10.200.202 (IP will change), but will be useful to not have rewrite
 
 ```
 
-# stabalizing_shell
-
-```
-nc -lnvp 9999
-CRTL + z
-stty raw -echo;fg
-ENTER
-export TERM=xterm
-
-```
-
-# copy_pasta
-
-```
-Username: R1ckRul3s
-
-Wubbalubbadubdub
-
-
-Sup3rS3cretPickl3Ingred.txt
-    -> mr. meeseek hair
-assets
-
-clue.txt
-denied.php
-index.html
-login.php
-portal.php
-robots.txt
-
-Vm1wR1UxTnRWa2RUV0d4VFlrZFNjRlV3V2t0alJsWnlWbXQwVkUxV1duaFZNakExVkcxS1NHVkliRmhoTVhCb1ZsWmFWMVpWTVVWaGVqQT0==
--> echo Vm1wR1UxTnRWa2RUV0d4VFlrZFNjRlV3V2t0alJsWnlWbXQwVkUxV1duaFZNakExVkcxS1NHVkliRmhoTVhCb1ZsWmFWMVpWTVVWaGVqQT0== | ba0== base64 -d | base64 -d | base64 -d | base64 -d | base64 -d | base64 -d 
--> rabbit hole
-
-2nd ingredeient: 1 jerry tear
-
-3rd ingredients: fleeb juice
-
-```
-
 # nmap_results
 
 ```
@@ -184,7 +144,53 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
 
 ```
 
-# task 1
+# copy_pasta
+
+```
+Username: R1ckRul3s
+
+Wubbalubbadubdub
+
+
+Sup3rS3cretPickl3Ingred.txt
+    -> mr. meeseek hair
+
+
+assets
+
+
+clue.txt
+denied.php
+index.html
+login.php
+portal.php
+robots.txt
+
+
+Vm1wR1UxTnRWa2RUV0d4VFlrZFNjRlV3V2t0alJsWnlWbXQwVkUxV1duaFZNakExVkcxS1NHVkliRmhoTVhCb1ZsWmFWMVpWTVVWaGVqQT0==
+-> echo Vm1wR1UxTnRWa2RUV0d4VFlrZFNjRlV3V2t0alJsWnlWbXQwVkUxV1duaFZNakExVkcxS1NHVkliRmhoTVhCb1ZsWmFWMVpWTVVWaGVqQT0== | ba0== base64 -d | base64 -d | base64 -d | base64 -d | base64 -d | base64 -d 
+-> rabbit hole
+
+
+2nd ingredeient: 1 jerry tear
+
+
+3rd ingredients: fleeb juice
+
+```
+
+# stabalizing_shell
+
+```
+nc -lnvp 9999
+CRTL + z
+stty raw -echo;fg
+ENTER
+export TERM=xterm
+
+```
+
+# Task_1
 
 ```
 1. What is the first ingredient that Rick needs?
