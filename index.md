@@ -26,7 +26,7 @@ Bookmark this to stay updated on my thoughts! :)
 
 ### **TryHackMe Notes**
 
-- 2023/6/28 - [Mr.Robots Notes](/posts/THM/mr_robots.md) **In progress**
+- 2023/7/9 - [Mr.Robots Notes](/posts/THM/mr_robots.md) **In progress**
 - 2023/6/28 - [Pickle Rick notes](/posts/THM/pickle_rick.md)
 
 
