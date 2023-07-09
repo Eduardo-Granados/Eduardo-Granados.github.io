@@ -49,10 +49,11 @@ export IP=10.10.200.202 (IP will change), but will be useful to not have rewrite
 
 
 9.  stabalize reverse shell
-   - john hammonds - poor mans pentest -> stabalize_shell3.sh and upload_file_nc.sh (outdated checl out pwncat)
+   - /usr/bin/script -qc /bin/bash /dev/null
 
 
 10. try to become root and snoop
+   - sudo bash
 
 ```
 
@@ -182,6 +183,10 @@ Vm1wR1UxTnRWa2RUV0d4VFlrZFNjRlV3V2t0alJsWnlWbXQwVkUxV1duaFZNakExVkcxS1NHVkliRmho
 # stabalizing_shell
 
 ```
+/usr/bin/script -qc /bin/bash /dev/null
+
+OR
+
 nc -lnvp 9999
 CRTL + z
 stty raw -echo;fg
