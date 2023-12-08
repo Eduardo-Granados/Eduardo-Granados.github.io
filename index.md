@@ -27,10 +27,14 @@ Bookmark this to stay updated on my thoughts! :)
 ### **TryHackMe Notes**
 
 - 2023/9/21 - [Crack the Hash](/posts/THM/CTH.md)
-- 2023/7/9 - [Mr.Robots Notes](/posts/THM/mr_robots.md) - **In progress**
+- 2023/7/9 - [Mr.Robots Notes](/posts/THM/mr_robots.md)
 - 2023/6/28 - [Pickle Rick notes](/posts/THM/pickle_rick.md)
 
 
 ---
 
 ###### [Contact information](contact.md)
+
+---
+
+<div id="pressMe">...</div>
