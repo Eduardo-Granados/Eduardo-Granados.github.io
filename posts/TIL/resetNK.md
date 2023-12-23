@@ -7,6 +7,8 @@
 
 ### notes
 
+```
+
 
 At some point I reset my user pin `123456` and admin pin `12345678` from their defaults to something else which I forgot. Thanfully I haven't used my Nitrokey 
 
