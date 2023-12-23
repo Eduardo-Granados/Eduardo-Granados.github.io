@@ -32,7 +32,7 @@ Bookmark this to stay updated on my thoughts, and I hope these post help some wa
 
 ### **Stuff**
 
-- 2022/9/29 - [Music](/posts/myStuff/music_lists/musicLists.md)
+- 2022/9/29 - [Music](/posts/myStuff/myMusic/musicIndex.md)
 
 
 

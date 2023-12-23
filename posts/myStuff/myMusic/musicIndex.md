@@ -1,4 +1,4 @@
-# Music
+# My Music Home Page
 
 ###### [Home](https://eduardo-granados.github.io/)
 
