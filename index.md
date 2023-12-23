@@ -24,7 +24,6 @@ Bookmark this to stay updated on my thoughts, and I hope these post help some wa
 - 2023/9/21 - [Crack the Hash](/posts/myStuff/thm/CTH.md)
 - 2023/7/9 - [Mr.Robots Notes](/posts/myStuff/thm/mr_robots.md)
 - 2023/6/28 - [Pickle Rick notes](/posts/myStuff/thm/pickle_rick.md)
-- - 2023/6/28 - [Pickle Rick notes](/posts/myStuff/thm/pickle_rick.md)
 
 
 ---
@@ -35,12 +34,6 @@ Bookmark this to stay updated on my thoughts, and I hope these post help some wa
 - 2022/9/29 - [Music](/posts/myStuff/myMusic/musicIndex.md)
 
 
-
-
 ---
 
 ###### [Contact information](contact.md)
-
----
-
-<div id="pressMe">...</div>
