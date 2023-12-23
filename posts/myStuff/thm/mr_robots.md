@@ -4,7 +4,7 @@
 
 ---
 
-```
+
 
 export IP=10.10.215.144
 
@@ -58,10 +58,10 @@ OR instead of hydra for pw cracking try wpscan
 
 
 
-```
 
 
 # Answer
+
 
 ```
 

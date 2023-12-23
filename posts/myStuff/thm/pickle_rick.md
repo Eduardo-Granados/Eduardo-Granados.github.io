@@ -6,7 +6,6 @@
 
 # Playbook
 
-```
 (Could use hydra, but would be too easy)
 
 export IP=10.10.200.202 (IP will change), but will be useful to not have rewrite IP address
@@ -54,8 +53,6 @@ export IP=10.10.200.202 (IP will change), but will be useful to not have rewrite
 
 10. try to become root and snoop
    - sudo bash
-
-```
 
 # nmap_results
 

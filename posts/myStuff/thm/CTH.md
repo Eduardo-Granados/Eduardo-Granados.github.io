@@ -1,10 +1,7 @@
-```
 - Searched google for "Hash decryt"
 - used site "https://hashes.com/en/tools/hash_identifier"
 - on the same site, i used the decrypter 
 
-
-```
 
 
 ```
