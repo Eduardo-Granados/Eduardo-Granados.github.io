@@ -6,6 +6,7 @@ Bookmark this to stay updated on my thoughts, and I hope these post help some wa
 
 ### **TIL**
 
+- 2023/12/19 - [Factory Reset Nitrokey](/posts//TIL/resetNK.md)
 - 2023/6/21 - [Installing Bettercap](/posts/TIL/installing_bettercap.md)
 - 2022/11/08 - [Working with Burp Suite](/posts/TIL/working_with_burp_suite.md)
 - 2022/6/22 - [How to update Linux machine](/posts/TIL/pc_maintenance.md)
@@ -20,9 +21,10 @@ Bookmark this to stay updated on my thoughts, and I hope these post help some wa
 
 ### **TryHackMe Notes**
 
-- 2023/9/21 - [Crack the Hash](/posts/myStuffTHM/CTH.md)
-- 2023/7/9 - [Mr.Robots Notes](/posts/myStuff/THM/mr_robots.md)
-- 2023/6/28 - [Pickle Rick notes](/posts/myStuff/THM/pickle_rick.md)
+- 2023/9/21 - [Crack the Hash](/posts/myStuff/thm/CTH.md)
+- 2023/7/9 - [Mr.Robots Notes](/posts/myStuff/thm/mr_robots.md)
+- 2023/6/28 - [Pickle Rick notes](/posts/myStuff/thm/pickle_rick.md)
+- - 2023/6/28 - [Pickle Rick notes](/posts/myStuff/thm/pickle_rick.md)
 
 
 ---
