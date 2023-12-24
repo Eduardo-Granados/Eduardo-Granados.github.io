@@ -6,14 +6,14 @@ Bookmark this to stay updated on my thoughts, and I hope these post help some wa
 
 ### **TIL**
 
-- 2023/12/19 - [Factory Reset Nitrokey](/posts//TIL/resetNK.md)
-- 2023/6/21 - [Installing Bettercap](/posts/TIL/installing_bettercap.md)
-- 2022/11/08 - [Working with Burp Suite](/posts/TIL/working_with_burp_suite.md)
-- 2022/6/22 - [How to update Linux machine](/posts/TIL/pc_maintenance.md)
-- 2022/6/21 - [How to work with crontab](/posts/TIL/cron_jobs.md)
-- 2022/4/6 - [Nmap Ping Scan](/posts/TIL/nmap_ping_scan.md)
-- 2021/10/26 - [Using Playwright](/posts/TIL/using_playwright.md)
-- 2021/8/14 - [Basic machine information](/posts/TIL/machine_info.md)
+- Dec 19, 2023 - [Factory Reset Nitrokey](/posts//TIL/resetNK.md)
+- June 21, 2023 - [Installing Bettercap](/posts/TIL/installing_bettercap.md)
+- Nov 08, 2022 - [Working with Burp Suite](/posts/TIL/working_with_burp_suite.md)
+- June 22, 2022 - [How to update Linux machine](/posts/TIL/pc_maintenance.md)
+- June 22, 2022 - [How to work with crontab](/posts/TIL/cron_jobs.md)
+- April 6, 2022 - [Nmap Ping Scan](/posts/TIL/nmap_ping_scan.md)
+- Oct 26, 2021 - [Using Playwright](/posts/TIL/using_playwright.md)
+- August 14, 2021 - [Basic machine information](/posts/TIL/machine_info.md)
 
 
 ---
@@ -21,9 +21,9 @@ Bookmark this to stay updated on my thoughts, and I hope these post help some wa
 
 ### **TryHackMe Notes**
 
-- 2023/9/21 - [Crack the Hash](/posts/myStuff/thm/CTH.md)
-- 2023/7/9 - [Mr.Robots Notes](/posts/myStuff/thm/mr_robots.md)
-- 2023/6/28 - [Pickle Rick notes](/posts/myStuff/thm/pickle_rick.md)
+- Sept 21, 2023 - [Crack the Hash](/posts/myStuff/thm/CTH.md)
+- July 9, 2023 - [Mr.Robots Notes](/posts/myStuff/thm/mr_robots.md)
+- June 28, 2023 - [Pickle Rick notes](/posts/myStuff/thm/pickle_rick.md)
 
 
 ---
@@ -31,7 +31,7 @@ Bookmark this to stay updated on my thoughts, and I hope these post help some wa
 
 ### **Stuff**
 
-- 2022/9/29 - [Music](/posts/myStuff/myMusic/musicIndex.md)
+- Sept 29, 2022 - [Music](/posts/myStuff/myMusic/musicIndex.md)
 
 
 ---
