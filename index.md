@@ -13,7 +13,7 @@ Bookmark this to stay updated on my thoughts, and I hope these post help some wa
 - June 22, 2022 - [How to work with crontab](/posts/TIL/cron_jobs.md)
 - April 6, 2022 - [Nmap Ping Scan](/posts/TIL/nmap_ping_scan.md)
 - Oct 26, 2021 - [Using Playwright](/posts/TIL/using_playwright.md)
-- August 14, 2021 - [Basic machine information](/posts/TIL/machine_info.md)
+- Aug 14, 2021 - [Basic machine information](/posts/TIL/machine_info.md)
 
 
 ---
