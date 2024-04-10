@@ -111,6 +111,7 @@ pw: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
     drwxr-x---  2 root bandit5 4096 Oct  5 06:19 maybehere17   
     drwxr-x---  2 root bandit5 4096 Oct  5 06:19 maybehere18   
     drwxr-x---  2 root bandit5 4096 Oct  5 06:19 maybehere19
+
 6. ls -la maybehere* | less
 7. within `less`, enter the following to search through the output. `/1033`
 8. found a match in maybehere07/.file2
@@ -134,6 +135,7 @@ pw: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
     owned by group bandit6
     33 bytes in size
 ```
+
 5. find / -type f -user bandit7 -group6 -print 2>&1 | grep -v "Permission denied"
     - what does the 2>&1 mean ?
 6. found `/var/lib/dpkg/info/bandit7.password`
@@ -146,11 +148,13 @@ pw: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 login: ssh bandit7@bandit.labs.overthewire.org -p 2220
 pw: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 
+```text
 1. pwd
 2. ls -la
 3. `cat data.txt` will output a lot of info in a dictionary style
 4. sort data.txt | uniq | grep millionth
 5. TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+```
 
 
 
