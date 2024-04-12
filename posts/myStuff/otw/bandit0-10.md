@@ -162,8 +162,10 @@ pw: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 login: ssh bandit8@bandit.labs.overthewire.org -p 2220
 pw: TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 
+```text
 1. pwd
 2. ls -la
+```
 
 
 # Level 10
