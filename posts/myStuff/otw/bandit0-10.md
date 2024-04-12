@@ -34,8 +34,10 @@ pw: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 login: ssh bandit2@bandit.labs.overthewire.org -p 2220
 pw: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
+```
 1. to cat a file with spaces do `./spaces\ in\ file\ name`
 2. aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+```
 
 
 
