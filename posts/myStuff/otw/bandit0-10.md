@@ -63,7 +63,7 @@ pw: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 login: ssh bandit4@bandit.labs.overthewire.org -p 2220
 pw: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
-
+```
 1. whoami
 2. pwd
 3. ls -la
@@ -71,6 +71,7 @@ pw: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 5. ls -la inhere
 6. after doing `cat inhere/-file0*` and going through all the files, file `-file07` was the only human-readable file 
 7. lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+```
 
 
 
