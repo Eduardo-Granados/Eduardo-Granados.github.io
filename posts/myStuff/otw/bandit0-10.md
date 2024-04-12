@@ -43,6 +43,7 @@ pw: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 login: ssh bandit3@bandit.labs.overthewire.org -p 2220
 pw: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 
+```
 1. whoami
 2. pwd
 3. ls
@@ -52,6 +53,7 @@ pw: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 7. foud a file called `.hidden`
 8. cat .hidden
 9. 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+```
 
 
 
@@ -118,8 +120,8 @@ pw: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 9. cat maybehere07/.file2
 10. P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
-
-
+19 AAAAC3NzaC1l
+19 AAAAC3NzaC1l
 # Level 7
 login: ssh bandit6@bandit.labs.overthewire.org -p 2220
 pw: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
