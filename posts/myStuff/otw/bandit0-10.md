@@ -11,11 +11,13 @@ pw: bandit0
 
 
 # Level 1
+```
 1. once logged in, I wanted to see what files there were. I did a `ls -la`
 2. i saw the file `readme`
 3. did `cat readme`
 4. pw found `NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL`
 5. NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+```
 
 
 
