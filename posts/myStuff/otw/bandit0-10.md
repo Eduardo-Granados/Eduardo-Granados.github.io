@@ -2,11 +2,12 @@ https://overthewire.org/wargames/bandit/bandit0.html
 
 
 # Level 0 
+```
 user: bandit0
 host: bandit.labs.overthewire.org
 port: 2220
 pw: bandit0
-
+```
 
 
 # Level 1
