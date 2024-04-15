@@ -2,12 +2,9 @@
 
 # Connecting account with SSH and cloning a directory
 
-<br>
-
 ###### [Home](https://eduardo-granados.github.io/)
 
 ---
-
 
 ### Github
 
