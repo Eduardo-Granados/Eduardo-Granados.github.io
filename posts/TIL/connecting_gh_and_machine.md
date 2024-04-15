@@ -2,7 +2,7 @@
 
 # Connecting account with SSH and cloning a directory
 
-</br>
+<br>
 
 ### Github
 
@@ -10,13 +10,13 @@
 
 [Link 2](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-https-to-ssh)
 
-</br>
+<br>
 
 ### Git
 
 [Git Help](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
 
-</br>
+<br>
 
 ### Stackoverflow Help
 
