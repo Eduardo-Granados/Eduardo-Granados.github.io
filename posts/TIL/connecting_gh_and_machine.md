@@ -1,4 +1,4 @@
-<font color="#9900FF"> # [STILL UPDATING] </font>
+<font color="#ff0000"> # [STILL UPDATING] </font>
 
 
 # Connecting account with SSH and cloning a directory
