@@ -13,20 +13,17 @@ pw: bandit0
 1. once logged in, I wanted to see what files there were. I did a `ls -la`
 2. i saw the file `readme`
 3. did `cat readme`
-4. pw found `NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL`
-5. NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+4. pw found 
 
 
 
 # Level 2
 login: ssh bandit1@bandit.labs.overthewire.org -p 2220
-pw: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
 1. After logging in, did the command `ls -la`
 2. saw the file titled `-`
 3. to be able to cat the file, i did `cat ./"-"`
-4. pw found `rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi`
-5. rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+4. pw found 
 
 
 
@@ -35,13 +32,11 @@ login: ssh bandit2@bandit.labs.overthewire.org -p 2220
 pw: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
 1. to cat a file with spaces do `./spaces\ in\ file\ name`
-2. aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 
 
 
 # level 4
 login: ssh bandit3@bandit.labs.overthewire.org -p 2220
-pw: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 
 1. whoami
 2. pwd
@@ -51,13 +46,11 @@ pw: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 6. ls -la
 7. foud a file called `.hidden`
 8. cat .hidden
-9. 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
 
 
 # level 5
 login: ssh bandit4@bandit.labs.overthewire.org -p 2220
-pw: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
 
 1. whoami
@@ -66,13 +59,11 @@ pw: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 4. found a folder called `inhere`
 5. ls -la inhere
 6. after doing `cat inhere/-file0*` and going through all the files, file `-file07` was the only human-readable file 
-7. lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 
 
 
 # level 6
 login: ssh bandit5@bandit.labs.overthewire.org -p 2220
-pw: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 
 1. whoami
     bandit5
@@ -116,13 +107,11 @@ pw: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 7. within `less`, enter the following to search through the output. `/1033`
 8. found a match in maybehere07/.file2
 9. cat maybehere07/.file2
-10. P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
 
 
 # Level 7
 login: ssh bandit6@bandit.labs.overthewire.org -p 2220
-pw: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
 1. whoami
 2. pwd
@@ -140,27 +129,23 @@ pw: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
     - what does the 2>&1 mean ?
 6. found `/var/lib/dpkg/info/bandit7.password`
 7. cat /var/lib/dpkg/info/bandit7.password
-8. z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 
 
 
 # level 8
 login: ssh bandit7@bandit.labs.overthewire.org -p 2220
-pw: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 
 ```text
 1. pwd
 2. ls -la
 3. `cat data.txt` will output a lot of info in a dictionary style
 4. sort data.txt | uniq | grep millionth
-5. TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 ```
 
 
 
 # Level 9
 login: ssh bandit8@bandit.labs.overthewire.org -p 2220
-pw: TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 
 1. pwd
 2. ls -la
