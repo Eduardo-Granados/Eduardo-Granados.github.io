@@ -6,7 +6,8 @@ Bookmark this to stay updated on my thoughts, and I hope these post help some wa
 
 ### **TIL**
 
-- Dec 19, 2023 - [Factory Reset Nitrokey](/posts//TIL/resetNK.md)
+- April 15, 2024 - [Cloning Github repo using SSH](/posts/TIL/connecting_gh_and_machine.md)
+- Dec 19, 2023 - [Factory Reset Nitrokey](/posts/TIL/resetNK.md)
 - June 21, 2023 - [Installing Bettercap](/posts/TIL/installing_bettercap.md)
 - Nov 08, 2022 - [Working with Burp Suite](/posts/TIL/working_with_burp_suite.md)
 - June 22, 2022 - [How to update Linux machine](/posts/TIL/pc_maintenance.md)
