@@ -15,13 +15,8 @@ pw: bandit0
 1. once logged in, I wanted to see what files there were. I did a `ls -la`
 2. i saw the file `readme`
 3. did `cat readme`
-<<<<<<< HEAD
 4. pw found 
-=======
-4. pw found `NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL`
-5. NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 ```
->>>>>>> 8a87fe700e54c21981177831cc9745e5fe929ecf
 
 
 
@@ -37,15 +32,9 @@ login: ssh bandit1@bandit.labs.overthewire.org -p 2220
 
 # Level 3
 login: ssh bandit2@bandit.labs.overthewire.org -p 2220
-pw: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
 ```
 1. to cat a file with spaces do `./spaces\ in\ file\ name`
-<<<<<<< HEAD
-=======
-2. aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
-```
->>>>>>> 8a87fe700e54c21981177831cc9745e5fe929ecf
 
 
 
@@ -61,11 +50,6 @@ login: ssh bandit3@bandit.labs.overthewire.org -p 2220
 6. ls -la
 7. foud a file called `.hidden`
 8. cat .hidden
-<<<<<<< HEAD
-=======
-9. 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
-```
->>>>>>> 8a87fe700e54c21981177831cc9745e5fe929ecf
 
 
 
@@ -79,11 +63,6 @@ login: ssh bandit4@bandit.labs.overthewire.org -p 2220
 4. found a folder called `inhere`
 5. ls -la inhere
 6. after doing `cat inhere/-file0*` and going through all the files, file `-file07` was the only human-readable file 
-<<<<<<< HEAD
-=======
-7. lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
-```
->>>>>>> 8a87fe700e54c21981177831cc9745e5fe929ecf
 
 
 
@@ -132,9 +111,8 @@ login: ssh bandit5@bandit.labs.overthewire.org -p 2220
 7. within `less`, enter the following to search through the output. `/1033`
 8. found a match in maybehere07/.file2
 9. cat maybehere07/.file2
+```
 
-19 AAAAC3NzaC1l
-19 AAAAC3NzaC1l
 # Level 7
 login: ssh bandit6@bandit.labs.overthewire.org -p 2220
 
