@@ -1,6 +1,4 @@
-## Welcome\!
-
-Bookmark this to stay updated on my thoughts, and I hope these post help some way.
+**Bookmark this to stay updated on my thoughts, and I hope these post help some way.**
 
 ## **Posts**
 
