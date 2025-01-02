@@ -1,6 +1,6 @@
 ## **Posts**
 
-### **(TIL)**
+### **TIL**
 
 - **April 15, 2024** - [Cloning GitHub Repo Using SSH](/posts/TIL/connecting_gh_and_machine.md)
 - **Dec 19, 2023** - [Factory Reset Nitrokey](/posts/TIL/resetNK.md)
