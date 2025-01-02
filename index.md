@@ -1,3 +1,4 @@
+<div align="center">
 ## **Posts**
 
 ### **TIL**
@@ -39,4 +40,4 @@
 ---
 
 <div id="pressMe">...</div>
-
+</div>
