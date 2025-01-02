@@ -1,7 +1,5 @@
-# Over the wire
-# Bandit
-
-**Link**: https://overthewire.org/wargames/bandit/bandit0.html
+###### [Home](https://eduardo-granados.github.io/)
+# Over the wire - [Bandit](https://overthewire.org/wargames/bandit/bandit0.html)
 
 
 
