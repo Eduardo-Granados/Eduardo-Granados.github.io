@@ -30,7 +30,7 @@ Bookmark this to stay updated on my thoughts, and I hope these post help some wa
 ---
 
 ### **Over The Wire Notes**
-- April 9, 2024 - [Bandit](/posts/myStuff/otw/bandit0-10.md) 
+- April 9, 2024 - [Bandit](./posts/myStuff/otw/otw_omepage.md) 
 
 ---
 
