@@ -14,7 +14,7 @@ pw: bandit0
 ```
 
 
-### Level 1
+### Level 0 -> 1
 ```text
 Continuing on from Level 0:
 
@@ -26,7 +26,7 @@ Continuing on from Level 0:
 
 
 
-### Level 2
+### Level 1 -> 2
 ```text
 login: ssh bandit1@bandit.labs.overthewire.org -p 2220
 pw
@@ -39,7 +39,7 @@ pw
 
 
 
-### Level 3
+### Level 2 -> 3
 ```text
 login: ssh bandit2@bandit.labs.overthewire.org -p 2220
 pw
@@ -50,7 +50,7 @@ pw
 
 
 
-### level 4
+### level 3 -> 4
 ```text
 login: ssh bandit3@bandit.labs.overthewire.org -p 2220
 pw
@@ -68,7 +68,7 @@ pw
 
 
 
-### level 5
+### level 4 -> 5
 ```text
 login: ssh bandit4@bandit.labs.overthewire.org -p 2220
 pw
@@ -84,7 +84,7 @@ pw
 
 
 
-### level 6
+### level 5 -> 6
 ```text
 login: ssh bandit5@bandit.labs.overthewire.org -p 2220
 pw
@@ -103,7 +103,7 @@ pw
 1. Found PW
 ```
 
-### Level 7
+### Level 6 -> 7
 ```text
 login: ssh bandit6@bandit.labs.overthewire.org -p 2220
 pw
@@ -121,7 +121,7 @@ pw
 ```
 
 
-### level 8
+### level 7 -> 8
 ```text
 login: ssh bandit7@bandit.labs.overthewire.org -p 2220
 pw
@@ -135,7 +135,7 @@ pw
 
 
 
-### Level 9
+### Level 8 -> 9
 ```text
 login: ssh bandit8@bandit.labs.overthewire.org -p 2220
 pw
@@ -147,7 +147,7 @@ pw
 ```
 
 
-### Level 10
+### Level 9 -> 10
 
 ```text
 login: ssh bandit8@bandit.labs.overthewire.org -p 2220
