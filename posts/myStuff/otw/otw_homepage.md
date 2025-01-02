@@ -34,3 +34,5 @@ For educators and content-creators
 
 ## [Bandit](https://overthewire.org/wargames/bandit/)
 - Bandit Level [0-10](./bandit/bandit0-10.md) 
+
+###### [Donate](https://overthewire.org/information/donate.html)
