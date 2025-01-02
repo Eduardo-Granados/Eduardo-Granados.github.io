@@ -3,4 +3,4 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: 44656570657220507572706f7365
-description: follow as i posts what im working on before i stop working on it
+description: follow as i posts what im working on before i stop working on it. maybe you find something you like
